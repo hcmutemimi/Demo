@@ -1,6 +1,2 @@
 say hi!
-<<<<<<< HEAD
-kk
-=======
-coa
->>>>>>> master
+helo
